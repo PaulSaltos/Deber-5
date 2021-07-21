@@ -49,6 +49,7 @@ Capacitores y capacitancia
 CAPITULO 9 
 
 Teoremas de redes
+![image](https://user-images.githubusercontent.com/85178869/126502489-dad699c2-7d3e-4c0f-b5af-0f7408bf90c1.png)
 
 CAPITULO 10
 
@@ -209,7 +210,8 @@ https://youtu.be/5ekJbUvS-To
 
 # 5.	CONCLUSIONES 
 
-
+• Los dos teoremas son muy útiles por que nos permite reducir una red de configuración compleja, en una de configuración sencilla.
+ 
 • En teorema de THEVENIN se concluye con la ley de Ohm para calcular la corriente circulante en una de las ramas.
 
 • En el teorema de NORTON, se concluye con el divisor de corriente para determinar la corriente circundante en una de las ramas.
